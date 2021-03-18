@@ -1,0 +1,1 @@
+###### Czy jak nie nazywa sie readme to też git go wyswietli?
