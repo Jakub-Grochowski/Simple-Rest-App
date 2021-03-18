@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj": {}
+    "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj": {
+    "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
+        "projectUniqueName": "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
         "projectName": "WebAPICore",
-        "projectPath": "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
+        "projectPath": "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
         "packagesPath": "C:\\Users\\karlo\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\obj\\",
+        "outputPath": "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

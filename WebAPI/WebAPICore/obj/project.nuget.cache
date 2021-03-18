@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VQERBKJl71llGtX++EreJMh2kbpbq+Tdgcf9h5YFZRreLwXpB69UHLC6+eVtdIa8QIqqj4WE/Uuu7Wxi9kAcFw==",
+  "dgSpecHash": "hQUYQc0BA9jSixinOgTx5z+GE+jiekFYSseSAbKMO8U0G4NF99ddP6+Q6GB8gv54ZRH78gTBwf4HXPsXsNvIjw==",
   "success": true,
-  "projectFilePath": "D:\\Studia\\laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Studia\\Laby\\Piar\\lab3\\WebAPI\\WebAPICore\\WebAPICore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karlo\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
